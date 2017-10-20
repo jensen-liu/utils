@@ -526,4 +526,3 @@ FTPTest.passiveMode=true
     逐行处理文件内容
     static <E> void  processWithLine(File file,String encoding, Collection<E> result, ObjectProcess<String,E> process)
     逐行处理文件内容
-    
